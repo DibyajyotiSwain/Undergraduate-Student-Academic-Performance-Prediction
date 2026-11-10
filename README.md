@@ -135,16 +135,10 @@ The dashboard loads the saved model pipeline; it does not retrain the models whe
 
 ### Dashboard screenshots
 
-Add your screenshots to the `screenshots/` folder and use these filenames, or update the paths below to match your filenames.
+<img width="707" height="663" alt="Screenshot 2026-11-10 150337" src="https://github.com/user-attachments/assets/12f457d2-832e-437c-8504-f95996023d4a" />
+<img width="2087" height="813" alt="Screenshot 2026-11-10 150305" src="https://github.com/user-attachments/assets/1c8c9c7c-2c94-41cb-9d5c-d85a2fd8dead" />
+<img width="2063" height="813" alt="Screenshot 2026-11-10 150021" src="https://github.com/user-attachments/assets/f551f08b-2af3-4aaf-b968-729cbe2c01bc" />
 
-| Dashboard view | Screenshot |
-|---|---|
-| Dashboard overview | `screenshots/dashboard-overview.png` |
-| Academic performance insights | `screenshots/academic-insights.png` |
-| Model evaluation | `screenshots/model-evaluation.png` |
-| Student marks prediction | `screenshots/marks-prediction.png` |
-
-![Student marks prediction dashboard](screenshots/marks-prediction.png)
 
 ## Project structure
 
@@ -152,9 +146,6 @@ Add your screenshots to the `screenshots/` folder and use these filenames, or up
 undergraduate_student_performance_project/
 │
 ├── data/
-│   ├── student_performance_synthetic.csv
-│   ├── student_performance_sample.csv
-│   └── DATA_DICTIONARY...
 │
 ├── models/
 │
@@ -281,8 +272,6 @@ The dashboard converts predicted marks into an **illustrative SGPA estimate** us
 ## Author
 
 **Dibyajyoti Swain**  
-IBCP | Class XII  
-Sai International School
 
 ---
 
