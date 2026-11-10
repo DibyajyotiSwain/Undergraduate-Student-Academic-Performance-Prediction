@@ -1,0 +1,11 @@
+# Core analysis and machine-learning dependencies
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Dashboard and model persistence (later project stages)
+plotly
+dash
+joblib
